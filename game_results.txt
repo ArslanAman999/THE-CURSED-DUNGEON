@@ -1,0 +1,60 @@
+
+=== FINAL RESULT ===
+Player Name: rslan 
+Rounds Survived: 4
+Total Damage Dealt: -572662307
+Total Damage Taken: -572662307
+
+=== FINAL RESULT ===
+Player Name: est 3
+Rounds Survived: 1
+Total Damage Dealt: -572662307
+Total Damage Taken: -572662307
+
+=== FINAL RESULT ===
+Player Name: est4
+Rounds Survived: 1
+Total Damage Dealt: -572662307
+Total Damage Taken: -572662307
+
+=== FINAL RESULT ===
+Player Name: est5
+Rounds Survived: 1
+Total Damage Dealt: -572662307
+Total Damage Taken: -572662307
+
+=== FINAL RESULT ===
+Player Name: 
+Rounds Survived: 1
+Total Damage Dealt: 105
+Total Damage Taken: 135
+
+=== FINAL RESULT ===
+Player Name: test udk
+Rounds Survived: 2
+Total Damage Dealt: 350
+Total Damage Taken: 200
+
+=== FINAL RESULT ===
+Player Name: arslan
+Rounds Survived: 3
+Total Damage Dealt: 475
+Total Damage Taken: 160
+
+=== FINAL RESULT ===
+Player Name: 1
+Rounds Survived: 4
+Total Damage Dealt: 450
+Total Damage Taken: 260
+
+=== FINAL RESULT ===
+Player Name: test4
+Rounds Survived: 1
+Total Damage Dealt: 105
+Total Damage Taken: 135
+
+=== FINAL RESULT ===
+Player Name: SMPanther068
+Rounds Survived: 4
+Total Damage Dealt: 525
+Total Damage Taken: 140
